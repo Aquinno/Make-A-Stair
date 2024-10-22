@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\bin\Debug\net8.0\MakeTriangule.exe
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\bin\Debug\net8.0\MakeTriangule.deps.json
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\bin\Debug\net8.0\MakeTriangule.runtimeconfig.json
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\bin\Debug\net8.0\MakeTriangule.dll
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\bin\Debug\net8.0\MakeTriangule.pdb
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\obj\Debug\net8.0\MakeTriangule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\obj\Debug\net8.0\MakeTriangule.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\obj\Debug\net8.0\MakeTriangule.AssemblyInfo.cs
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\obj\Debug\net8.0\MakeTriangule.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\obj\Debug\net8.0\MakeTriangule.dll
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\obj\Debug\net8.0\refint\MakeTriangule.dll
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\obj\Debug\net8.0\MakeTriangule.pdb
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\obj\Debug\net8.0\MakeTriangule.genruntimeconfig.cache
+C:\Users\vinic\source\repos\MakeTriangule\MakeTriangule\obj\Debug\net8.0\ref\MakeTriangule.dll
